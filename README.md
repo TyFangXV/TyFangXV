@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TyFangXV
+- 👋 @TyFangXV here
 - 👀 I’m interested in almost everything
 - 🌱 Always learning something new 
 - ⚜️ Just making dreams into reality 
