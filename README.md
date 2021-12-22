@@ -4,3 +4,8 @@ Hello there, My name is drx, I'm a 15-year-old developer who loves coding. I lov
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyFangXV)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+also make sure to visit https://roy.kryx.tk
+
+
