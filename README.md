@@ -6,6 +6,4 @@ Hello there, My name is drx, I'm a 15-year-old developer who loves coding. I lov
 
 
 
-also make sure to visit https://roy.kryx.tk
-
 
