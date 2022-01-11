@@ -1,7 +1,7 @@
 ## TyFangXV
 Hello there, My name is drx, I'm a 15-year-old developer who loves coding. I love working on small-scale projects for fun, exploring new technology, and is always curious about how things work. Currently I know  Javascript, c#, and other web technologies.
 
-<div align="center">
+
 <hr/>
 ## Github Stats
 <br/>
@@ -12,7 +12,7 @@ Hello there, My name is drx, I'm a 15-year-old developer who loves coding. I lov
 <h2 align="centre">Visitor Count</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{avinIndrasoma}/count.svg" /></p> 
 <br>
-</div>
+
 
 
 
