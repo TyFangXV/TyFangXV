@@ -10,7 +10,7 @@ Hello there, My name is drx, I'm a 15-year-old developer who loves coding. I lov
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TyFangXV&langs_count=5&theme=tokyonight)]()
 <br/>
 <h2 align="centre">Visitor Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{avinIndrasoma}/count.svg" /></p> 
+[![My Github counter](https://profile-counter.glitch.me/Tyfangxv/count.svg)]
 <br>
 
 
