@@ -4,14 +4,16 @@ Hello there, My name is drx, I'm a 15-year-old developer who loves coding. I lov
 
 <hr/>
 ## Github Stats
+
 <br/>
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TyFangXV&count_private=true&theme=tokyonight&showicons=true)]()
 <br/>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TyFangXV&langs_count=5&theme=tokyonight)]()
 <br/>
-## Visitor Count<  
-[![My Github counter](https://profile-counter.glitch.me/Tyfangxv/count.svg)]
-<br>
+## Visitor Count
+[![My Github counter](https://profile-counter.glitch.me/Tyfangxv/count.svg)]()
+<br/>
 
 
 
