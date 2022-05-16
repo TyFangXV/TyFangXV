@@ -2,7 +2,8 @@
 Hello there, My name is drx, I'm a 16-year-old developer who loves coding. I love working on small-scale projects for fun, exploring new technology, and is always curious about how things work. Currently I know  Javascript, C#, Kotlin and Typescript. 
 
 <hr/>
- ## Languages 
+
+## Languages 
  
  * Javascript
  * flutter
