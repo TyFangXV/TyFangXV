@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello there, My name is drx, I'm a Full-stack developer. I working on large-scale projects for fun, exploring new technology, and is always curious about how things work. 
+I'm Drex, I'm a full-stack developer and has a level of proficiency in Typescript and C#.
+
+I'm keen to learn new things and can work out a solution or fresh concept at any moment
+
+I am eager to be a member of any team, providing fantastic ideas to the team and being skilled at converting a concept into a reality. and is always willing to assist anyone in need while seeking guidance from others.. 
 
 
 ## 🌐 Socials:
