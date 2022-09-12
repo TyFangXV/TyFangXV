@@ -47,6 +47,53 @@ I'm Drex, I'm a full-stack developer and I have a level of proficiency in Typesc
 ## Design
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<br>
+
+# 🧑‍💻 Projects:
+
+## - [Calicall](https://github.com/TyFangXV/Calicall.git)
+### A Discord based clone that supports peer to peer call, messaging and more features to be added
+
+### <b>Stack Used:
+ * Redis - Caching
+ * Express.js + Socket.io - Server side 
+ * Postgress - Primary database
+ * Nextjs - Web-Framework for client side
+ * Peerjs - for handling peer to peer call
+ * Discord-Auth : Uses discord authentication for the SignIn and Login
+
+<br>
+
+## - [Stren](https://github.com/TyFangXV/stren.git)
+### An anime site, where u can watch your favorite anime 
+
+### <b>Stack Used:
+ * Jikan-api - Getting data of the anime and the latest anime hits
+ * Nextjs + Chakra-UI - Website build using chakra UI 
+ 
+<br>
+
+## - [Meme App](https://github.com/TyFangXV/Meme-app.git)
+### An app to go through some funny memes
+
+### <b> Stack Used:
+ * React-Native : Used expo to build the app
+
+
+<br>
+
+## - [Flexio](https://github.com/TyFangXV/Flexio.git)
+### Track your day and stay updated on your next task 
+
+### <b> Stack Used:
+ * MongoDB : Primary Database
+ * React-Native : Mobile client 
+ * Nextjs : Web client
+ * Express-js : server side 
+
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TyfangXV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TyfangXV&theme=dark&hide_border=false)<br/>
