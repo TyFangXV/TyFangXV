@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Drex, I'm a full-stack developer. I'm proficient in Typescript and C#. I'm keen to learn new things and can work out a solution or fresh concept at any moment and I am eager to be a member of any team, providing fantastic ideas to said team and being skilled at converting a concept into a reality. I am always willing to assist anyone in need while seeking guidance from others.
+I'm Drex, I'm a full-stack developer. I'm proficient in Typescript and C#. I'm keen to learn new things and can work out a solution or fresh concept at any moment and I am eager to be a member of any team, providing fantastic ideas to said team and being skilled at converting a concept into a reality. I am always willing to assist anyone in need while seeking guidance from others
 
 
 ## 🌐 Socials:
